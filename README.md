@@ -23,6 +23,7 @@ As a passionate engineer with a diverse background in industrial and mechanical 
   <li><strong>Description</strong>: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.</li>
   <li><strong>Contact</strong>: 
     <ul>
+      <li><a href="mailto:geovanny.alpizar@gmail.com">Email</a></li>
       <li><a href="https://twitter.com/GeovaA13">Twitter</a></li>
       <li><a href="https://www.linkedin.com/in/geovanny-alpizar">LinkedIn</a></li>
       <li><a href="https://github.com/yonrasgg">GitHub</a></li>
@@ -38,7 +39,16 @@ As a passionate engineer with a diverse background in industrial and mechanical 
 
 <ul>
   <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science</li>
-  <li><strong>Project Management</strong>: (Menciona herramientas o metodologías específicas que utilices)</li>
+  <li><strong>Project Management</strong>: Me he especializado en la guía de buenas prácticas del <strong>PMBOK</strong> y gestiono proyectos utilizando diversas metodologías, entre las que se incluyen:
+    <ul>
+      <li>Waterfall</li>
+      <li>Agile Kanban</li>
+      <li>Lean and Six Sigma</li>
+      <li>PERT (Program Evaluation and Review Technique)</li>
+      <li>APF (Adaptive Project Framework)</li>
+      <li>CPM (Critical Path Method)</li>
+    </ul>
+  </li>
   <li><strong>Programming</strong>: (Menciona lenguajes o frameworks que domines)</li>
   <li><strong>Research Interests</strong>: Fractals, Toroids, Nature-inspired algorithms</li>
 </ul>
@@ -46,4 +56,5 @@ As a passionate engineer with a diverse background in industrial and mechanical 
 <h2 style="color: #E94E77;">Blog Posts</h2>
 
 <p>(Inserta aquí enlaces a tus publicaciones de blog más recientes o destacadas)</p>
+
 
