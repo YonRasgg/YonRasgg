@@ -1,6 +1,6 @@
 # Geovanny Alpizar S.
 
-![Header GIF](http://bigblueboo.tumblr.com/post/91849699032/gears-within-gears) <!-- Reemplaza "URL_DEL_GIF_AQUÍ" con la URL de tu GIF -->
+![Header GIF](https://github.com/yonrasgg/yonrasgg/blob/main/giphy%20(5).gif) <!-- Reemplaza "URL_DEL_GIF_AQUÍ" con la URL de tu GIF -->
 
 Welcome to my professional portfolio. As a passionate engineer with a diverse background in industrial and mechanical engineering, project management, computer science, and programming, I've always been inspired by the intricate patterns of nature, fractals, toroids, and the sustainable practices of agriculture.
 
