@@ -23,7 +23,6 @@ As a passionate engineer with a diverse background in industrial and mechanical 
   <li><strong>Description</strong>: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.</li>
   <li><strong>Contact</strong>: 
     <ul>
-      <li><a href="mailto:geovanny.alpizar@gmail.com">Email</a></li>
       <li><a href="https://twitter.com/GeovaA13">Twitter</a></li>
       <li><a href="https://www.linkedin.com/in/geovanny-alpizar">LinkedIn</a></li>
       <li><a href="https://github.com/yonrasgg">GitHub</a></li>
