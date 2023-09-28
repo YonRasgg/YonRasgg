@@ -10,9 +10,9 @@ As a passionate engineer with a diverse background in industrial and mechanical 
 
 <h2 style="color: #E94E77;">Personal Portfolio Preview</h2>
 
-<a href="https://yonrasgg.github.io">
-  <img src="https://yonrasgg.github.io/assets/img/preview.png" alt="Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
+<div class="post-it">
+    <iframe src="https://geovannyalpizars.github.io" frameborder="0"></iframe>
+</div>
 
 > Dive into my [Personal Portfolio](https://yonrasgg.github.io) to explore my projects, experiences, and insights.
 
