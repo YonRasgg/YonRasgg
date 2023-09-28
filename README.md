@@ -37,7 +37,7 @@ As a passionate engineer with a diverse background in industrial and mechanical 
 <h2 style="color: #E94E77;">Skills & Expertise</h2>
 
 <ul>
-  <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science</li>
+  <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science & Networking</li>
   <li><strong>Project Management</strong>: I have specialized in the PMBOK best practices guide and manage projects using various methodologies, including:
     <ul>
       <li>Waterfall</li>
