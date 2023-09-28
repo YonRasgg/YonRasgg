@@ -31,10 +31,6 @@ As a passionate engineer with a diverse background in industrial and mechanical 
   </li>
 </ul>
 
-<h2 style="color: #E94E77;">Featured Projects</h2>
-
-<p>(Insert a list or description of your featured projects here)</p>
-
 <h2 style="color: #E94E77;">Skills & Expertise</h2>
 
 <ul>
