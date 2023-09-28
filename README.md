@@ -39,7 +39,7 @@ As a passionate engineer with a diverse background in industrial and mechanical 
 
 <ul>
   <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science</li>
-  <li><strong>Project Management</strong>: Me he especializado en la guía de buenas prácticas del <strong>PMBOK</strong> y gestiono proyectos utilizando diversas metodologías, entre las que se incluyen:
+  <li><strong>Project Management</strong>: I have specialized in the PMBOK best practices guide and manage projects using various methodologies, including:
     <ul>
       <li>Waterfall</li>
       <li>Agile Kanban</li>
