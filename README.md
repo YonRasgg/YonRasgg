@@ -2,35 +2,49 @@
 
 <img src="https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif" alt="Header GIF" style="width: 100%;">
 
-Welcome to my professional portfolio. As a passionate engineer with a diverse background in industrial and mechanical engineering, project management, computer science, and programming, I've always been inspired by the intricate patterns of nature, fractals, toroids, and the sustainable practices of agriculture.
+<h1 style="color: #4A90E2; border-bottom: 2px solid #4A90E2;">Welcome to my professional portfolio</h1>
 
-## Personal Portfolio Preview
+<p style="font-size: 1.1em; color: #333;">
+As a passionate engineer with a diverse background in industrial and mechanical engineering, project management, computer science, and programming, I've always been inspired by the intricate patterns of nature, fractals, toroids, and the sustainable practices of agriculture.
+</p>
 
-[![Portfolio Preview](https://yonrasgg.github.io/assets/img/preview.png)](https://yonrasgg.github.io) <!-- Reemplaza "preview.png" con una captura de pantalla de tu sitio web -->
+<h2 style="color: #E94E77;">Personal Portfolio Preview</h2>
 
-Dive into my [Personal Portfolio](https://yonrasgg.github.io) to explore my projects, experiences, and insights.
+<a href="https://yonrasgg.github.io">
+  <img src="https://yonrasgg.github.io/assets/img/preview.png" alt="Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</a>
 
-## About Me
+> Dive into my [Personal Portfolio](https://yonrasgg.github.io) to explore my projects, experiences, and insights.
 
-- **Title**: Project Manager at Heart, Engineer by Design
-- **Description**: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.
-- **Contact**: [Email](mailto:geovanny.alpizar@gmail.com) | [Twitter](https://twitter.com/GeovaA13) | [LinkedIn](https://www.linkedin.com/in/geovanny-alpizar) | [GitHub](https://github.com/yonrasgg)
+<h2 style="color: #E94E77;">About Me</h2>
 
-## Featured Projects
+<ul>
+  <li><strong>Title</strong>: Project Manager at Heart, Engineer by Design</li>
+  <li><strong>Description</strong>: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.</li>
+  <li><strong>Contact</strong>: 
+    <ul>
+      <li><a href="mailto:geovanny.alpizar@gmail.com">Email</a></li>
+      <li><a href="https://twitter.com/GeovaA13">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/in/geovanny-alpizar">LinkedIn</a></li>
+      <li><a href="https://github.com/yonrasgg">GitHub</a></li>
+    </ul>
+  </li>
+</ul>
 
-(Insert a list or description of your featured projects here)
+<h2 style="color: #E94E77;">Featured Projects</h2>
 
-## Skills & Expertise
+<p>(Insert a list or description of your featured projects here)</p>
 
-- **Engineering**: Industrial, Mechanical, Computer Science
-- **Project Management**: (Menciona herramientas o metodologías específicas que utilices)
-- **Programming**: (Menciona lenguajes o frameworks que domines)
-- **Research Interests**: Fractals, Toroids, Nature-inspired algorithms
+<h2 style="color: #E94E77;">Skills & Expertise</h2>
 
-## Blog Posts
+<ul>
+  <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science</li>
+  <li><strong>Project Management</strong>: (Menciona herramientas o metodologías específicas que utilices)</li>
+  <li><strong>Programming</strong>: (Menciona lenguajes o frameworks que domines)</li>
+  <li><strong>Research Interests</strong>: Fractals, Toroids, Nature-inspired algorithms</li>
+</ul>
 
-(Inserta aquí enlaces a tus publicaciones de blog más recientes o destacadas)
+<h2 style="color: #E94E77;">Blog Posts</h2>
 
----
+<p>(Inserta aquí enlaces a tus publicaciones de blog más recientes o destacadas)</p>
 
-Built with ❤️ using [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy).
