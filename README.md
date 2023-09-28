@@ -1,6 +1,6 @@
 # Geovanny Alpizar S.
 
-<img src="https://github.com/yonrasgg/yonrasgg/blob/main/giphy%20(5).gif" alt="Header GIF" style="width: 100%;">
+<img src="[https://github.com/yonrasgg/yonrasgg/blob/main/giphy%20(5).gif](https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif)" alt="Header GIF" style="width: 100%;">
 
 Welcome to my professional portfolio. As a passionate engineer with a diverse background in industrial and mechanical engineering, project management, computer science, and programming, I've always been inspired by the intricate patterns of nature, fractals, toroids, and the sustainable practices of agriculture.
 
