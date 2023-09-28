@@ -45,12 +45,13 @@ As a passionate engineer with a diverse background in industrial and mechanical 
       <li>CPM (Critical Path Method)</li>
     </ul>
   </li>
-  <li><strong>Programming</strong>: (Menciona lenguajes o frameworks que domines)</li>
+  <li><strong>Programming</strong>:</li>
+   <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>CSS</li>
+      <li>HTML</li>
+      <li>Markdown</li>
+      <li>Bash</li>
   <li><strong>Research Interests</strong>: Fractals, Toroids, Nature-inspired algorithms</li>
 </ul>
-
-<h2 style="color: #E94E77;">Blog Posts</h2>
-
-<p>(Inserta aquí enlaces a tus publicaciones de blog más recientes o destacadas)</p>
-
-
