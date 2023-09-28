@@ -52,6 +52,7 @@ With expertise spanning industrial, mechanics, computer science, networking, and
       <li>CSS</li>
       <li>HTML</li>
       <li>Markdown</li>
+      <li>YAML</li>
       <li>Bash</li>
   <li><strong>Research Interests</strong>: Fractals, Toroids, Nature-inspired algorithms</li>
 </ul>
