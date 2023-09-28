@@ -5,7 +5,7 @@
 <h1 style="color: #4A90E2; border-bottom: 2px solid #4A90E2;">Welcome to my personal portfolio</h1>
 
 <p style="font-size: 1.1em; color: #333;">
-As an engineer with expertise spanning industrial, mechanics, computer science, networking, and a little bit of programming, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
+With expertise spanning industrial, mechanics, computer science, networking, and a little bit of programming, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
 </p>
 
 <h2 style="color: #E94E77;">Personal Portfolio Preview</h2>
@@ -34,7 +34,7 @@ As an engineer with expertise spanning industrial, mechanics, computer science, 
 <h2 style="color: #E94E77;">Skills & Expertise</h2>
 
 <ul>
-  <li><strong>Engineering</strong>: Industrial, Mechanical, Computer Science & Networking</li>
+  <li><strong>Professional Background</strong>: Industrial, Mechanical, Computer Science & Networking</li>
   <li><strong>Project Management</strong>: I have specialized in the PMBOK best practices guide and manage projects using various methodologies, including:
     <ul>
       <li>Waterfall</li>
