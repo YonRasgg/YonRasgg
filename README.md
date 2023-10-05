@@ -6,7 +6,8 @@
 
 With expertise spanning industrial, mechanics, computer science, networking, and a touch of technologies, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
 
-🔍 Dive into my [Personal Portfolio](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg) to explore my projects, experiences, and insights.
+![](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)
+🔍 Dive into my [Personal Portfolio](https://yonrasgg.github.io/) to explore my projects, experiences, and insights.
 
 ## About Me 🚀
 
