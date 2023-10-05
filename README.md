@@ -1,23 +1,10 @@
 # Geovanny Alpizar S.
 
-<img src="https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif" alt="Header GIF" style="width: 100%;">
-
-<h1 style="color: #4A90E2; border-bottom: 2px solid #4A90E2;">Welcome to my personal portfolio</h1>
-
-<p style="font-size: 1.1em; color: #333;">
-With expertise spanning industrial, mechanics, computer science, networking, and a little bit of programming, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
-</p>
-
-<h2 style="color: #E94E77;">Personal Portfolio Preview</h2>
-# Geovanny Alpizar S.
-
 ![Header GIF](https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif)
 
 ## Welcome to my personal portfolio 🌟
 
 With expertise spanning industrial, mechanics, computer science, networking, and a touch of technologies, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
-
-[![Portfolio Preview](https://github.com/yonrasgg/yonrasgg/blob/main/Screenshot%202023-09-27%20202033.png)](https://yonrasgg.github.io/)
 
 🔍 Dive into my [Personal Portfolio](https://yonrasgg.github.io) to explore my projects, experiences, and insights.
 
