@@ -1,16 +1,16 @@
-# Geovanny Alpizar S.
+<img src="https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif" alt="Header GIF" width="100%">
 
-![Header GIF](https://github.com/yonrasgg/yonrasgg/blob/main/tumblr_pkudm7uyZo1rboy69o1_r1_1280.gif)
+# Geovanny Alpizar S.
 
 ## Welcome to my personal portfolio 🌟
 
 With expertise spanning industrial, mechanics, computer science, networking, and a touch of technologies, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
 
-🔍 Dive into my [Personal Portfolio](https://yonrasgg.github.io) to explore my projects, experiences, and insights.
+🔍 Dive into my [Personal Portfolio](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg) to explore my projects, experiences, and insights.
 
 ## About Me 🚀
 
-- **Title**: Project Manager at Heart, Engineer by Design
+- **Title**: Project Manager and Technologies Enthusiast
 - **Description**: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.
 - **Contact**: 
   - [Twitter](https://twitter.com/GeovaA13)
