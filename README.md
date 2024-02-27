@@ -21,13 +21,7 @@ With expertise spanning industrial, mechanics, computer science, networking, and
 ## Skills & Expertise 🛠️
 
 - **Professional Background**: Industrial, Mechanical, Computer Science & Networking
-- **Project Management**: I have specialized in the PMBOK best practices guide and manage projects using various methodologies, including:
-  - Waterfall
-  - Agile Kanban
-  - Lean and Six Sigma
-  - PERT (Program Evaluation and Review Technique)
-  - APF (Adaptive Project Framework)
-  - CPM (Critical Path Method)
+- **Project Management**: I have specialized in the PMBOK best practices guide.
 - **Technologies**:
   - Python
   - Java
