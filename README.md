@@ -4,14 +4,12 @@
 
 ## Welcome to my personal portfolio 🌟
 
-With expertise spanning industrial, mechanics, computer science, networking, and a touch of technologies, I'm deeply influenced by nature's intricate patterns, such as fractals and toroids. My passion for sustainable agricultural practices and permaculture is complemented by my enthusiasm for engines and holistic project management methodologies.
 
-[![Kanban Icon](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)](https://yonrasgg.github.io/about/)
-🔍 Dive into my [Personal Portfolio](https://yonrasgg.github.io/) to explore my projects, experiences, and insights.
+[![Icon](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)](https://yonrasgg.github.io/about/)
 
 ## About Me 🚀
 
-- **Title**: Project Manager and Technologies Enthusiast
+- **Title**: Project Manager Technician and Technologies Enthusiast
 - **Description**: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.
 - **Contact**: 
   - [Twitter](https://twitter.com/GeovaA13)
@@ -21,7 +19,7 @@ With expertise spanning industrial, mechanics, computer science, networking, and
 ## Skills & Expertise 🛠️
 
 - **Professional Background**: Industrial, Mechanical, Computer Science & Networking
-- **Project Management**: I have specialized in the PMBOK best practices guide.
+- **Project Management**: Knowledge in project management best practices and guides.
 - **Technologies**:
   - Python
   - Java
