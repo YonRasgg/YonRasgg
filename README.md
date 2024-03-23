@@ -11,10 +11,6 @@
 
 - **Title**: Project Manager Technician and Technologies Enthusiast
 - **Description**: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.
-- **Contact**: 
-  - [Twitter](https://twitter.com/GeovaA13)
-  - [LinkedIn](https://www.linkedin.com/in/geovanny-alpizar)
-  - [GitHub](https://github.com/yonrasgg)
 
 ## Skills & Expertise 🛠️
 
