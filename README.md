@@ -18,7 +18,7 @@
 
 ## Skills & Expertise 🛠️
 
-- **Professional Background**: Industrial, Mechanical, Computer Science & Networking
+- **Professional Background**: Warehouse management, Technical Support and Customer Support
 - **Project Management**: Knowledge in project management best practices and guides.
 - **Technologies**:
   - Python
