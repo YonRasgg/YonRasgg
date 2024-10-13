@@ -5,7 +5,7 @@
 ## Welcome to my personal portfolio 🌟
 
 
-[![folder-kanban](https://gaaspkm.online/about/)
+[![folder-kanban](https://gaaspkm.online/about/)]
 
 ## About Me 🚀
 
