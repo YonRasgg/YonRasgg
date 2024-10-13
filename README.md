@@ -5,7 +5,7 @@
 ## Welcome to my personal portfolio 🌟
 
 
-[![Icon](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)](https://yonrasgg.github.io/about/)
+[![Icon](https://gaaspkm.online/about/)
 
 ## About Me 🚀
 
