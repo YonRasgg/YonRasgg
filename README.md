@@ -5,7 +5,7 @@
 ## Welcome to my personal portfolio 🌟
 
 
-[![folder-kanban](https://gaaspkm.online/)]
+[TechNomadiX Blog](https://gaaspkm.online/)
 
 ## About Me 🚀
 
