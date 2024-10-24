@@ -4,7 +4,7 @@
 
 ## Welcome to my Blog 🌟
 
-![[TechNomadiX Blog](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)](https://gaaspkm.online/)
+[![TechNomadiX Blog](https://github.com/yonrasgg/yonrasgg/blob/main/folder-kanban.svg)](https://gaaspkm.online/)
 
 ## About Me 🚀
 
