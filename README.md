@@ -2,29 +2,46 @@
 
 # Geovanny Alpizar S.
 
-## Welcome to my personal portfolio 🌟
-
+## Welcome to my Blog 🌟
 
 [TechNomadiX Blog](https://gaaspkm.online/)
 
 ## About Me 🚀
 
-- **Title**: Project Manager Technician and Technologies Enthusiast
-- **Description**: A minimal, responsive, and feature-rich portfolio showcasing my technical expertise and innovative approach.
+Hi there! I'm passionate about technology, project management, and continuous learning. My journey is all about exploring the edges of tech and finding practical ways to solve problems, both professionally and in my personal projects. I like to describe myself as a **Project Manager, DevOps practitioner, SecOps enthusiast, and mechanic of technology**. I thrive in environments that allow for innovation and encourage exploration.
+
+I maintain a personal knowledge management (PKM) system to capture and organize everything I learn—from new DevOps practices to my gym routines. Currently, I'm diving deep into network security, Docker orchestration, and project management methodologies. I'm also working on [TechNomadiX](https://github.com/yourusername/TechNomadiX), a blog aimed at sharing my technical journey and insights with others in the tech community.
 
 ## Skills & Expertise 🛠️
 
-- **Professional Background**: Warehouse management, Technical Support and Customer Support
-- **Project Management**: Knowledge in project management best practices and guides.
-- **Technologies**:
-  - Python
-  - Java
-  - CSS
-  - HTML
-  - Markdown
-  - YAML
-  - Bash
-- **Research Interests**: Fractals, Toroids, Nature-inspired algorithms
+- **Professional Background**: Procurement, Warehouse Management, Technical Support, Customer Support, DevOps, SecOps, and Project Management.
+- **Project Management**: I possess a solid foundation in project management best practices, with a focus on integrating soft skills into estimations, team dynamics, and planning.
+- **Technologies & Tools**:
+  - **Languages**: Python, Java, Bash, CSS, HTML, Markdown, YAML.
+  - **DevOps**: Docker, Kubernetes, WireGuard, Twingate, CI/CD Pipelines, and infrastructure automation.
+  - **Version Control**: Git, GitHub, and GitLab.
+  - **Cloud & Containerization**: Docker Compose, virtualization using QEMU/KVM.
+  - **Productivity & PKM**: Obsidian for notes, LaTeX for document processing, Mermaid for diagrams, and LibreOffice for data organization, also MS 365 and Google suites.
+
+## Research & Learning Interests 📚
+
+- **Fractals, Toroids, Nature-Inspired Algorithms**: I'm fascinated by how nature’s patterns can inspire solutions in technology and software development.
+- **Network Security & Audit**: Performing educational Wi-Fi security audits, understanding how vulnerabilities can be mitigated, and ensuring my home network is resilient.
+- **Linux & Automation**: Building useful scripts to automate everyday tasks, currently focusing on Bash and Python to enhance my DevOps toolkit.
+- **Obsolete Devices**: Reflashing old devices and giving them new life with modern operating systems.
+
+## Current Projects 🛠️
+
+- **TechNomadiX Blog**: A blog focused on knowledge management and tech sharing. Built as a static Jekyll site, it's hosted on GitHub Pages, with each post written in Markdown. I'm currently reformatting a structured Python course in Spanish for this blog, segmenting it into easily digestible sections.
+- **Network & VPN Projects**: I'm setting up Docker-based VPN environments to improve privacy in networks managed through CGNAT and Wi-Fi routers.
+
+## Let's Connect 🌐
+
+- **GitHub Projects**: Explore my projects here on GitHub.
+- **Tech Blog**: [TechNomadiX](https://github.com/yourusername/TechNomadiX) – Follow my tech journey and learn alongside me.
+- **Social Media**: You can also find me on Instagram at [tcnmdx], where I share snapshots of my tech adventures and more.
+
+I'm always curious, always exploring, and always happy to connect with like-minded individuals. Whether it's to collaborate on a project, discuss tech, or learn something new—let's make it happen!
 
 ## Languages and Tools 🌐
 
